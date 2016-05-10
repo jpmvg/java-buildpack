@@ -49,7 +49,7 @@
 
         <sensitive-data-filter applies-to="environment-variables,system-properties"
                                match-type="STARTSWITH"
-                               match-pattern="VCAP"/>
+                               match-pattern="VCAP_SERVICES"/>
                                
         <sensitive-data-filter applies-to="environment-variables,system-properties"
                                match-type="CONTAINS"
