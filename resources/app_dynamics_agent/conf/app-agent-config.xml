@@ -46,6 +46,10 @@
         <sensitive-data-filter applies-to="environment-variables,system-properties"
                                match-type="CONTAINS"
                                match-pattern="key"/>
+                               
+        <sensitive-data-filter applies-to="environment-variables,system-properties"
+                               match-type="CONTAINS"
+                               match-pattern="VCAP_SERVICES"/>
 
     </sensitive-data-filters>
 
