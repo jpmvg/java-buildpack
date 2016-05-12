@@ -1,0 +1,1 @@
+Agent configuration with additional <sensitive-data-filter> to suppress VACP_SERVICES to be transferred to appdynamics. 
