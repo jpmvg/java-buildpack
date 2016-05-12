@@ -1,1 +1,0 @@
-Fork to supress the environvariable VCAP_SERVICES from being transferred to the appdynamics controller
